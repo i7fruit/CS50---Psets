@@ -1,0 +1,49 @@
+body
+{
+    background-color: lightblue;
+}
+
+.jumbotron
+{
+    text-align: center;
+    padding: 10px;
+}
+
+p
+{
+    font-size: 16px;
+}
+
+#p-title
+{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#txt
+{
+    background-color: white;
+}
+
+#nxt
+{
+    text-align: right;
+}
+
+mark
+{
+    background-color: yellow;
+}
+
+.p-5
+{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#foot
+{
+    text-align: center;
+    font-size: 8pt;
+    background-color: lightgrey;
+}
